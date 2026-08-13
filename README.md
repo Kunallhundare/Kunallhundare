@@ -1,128 +1,67 @@
-<div align="center">
+# Hi there, I'm Kunal Hundare 👋
 
-<!-- Typing animation header -->
-<a href="https://github.com/Kunallhundare">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kunal+Hundare+%F0%9F%91%8B;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights" alt="Typing SVG" />
-</a>
+*Aspiring Data Analyst · Turning Raw Data into Meaningful Insights*
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kunallhundare)
 
-<img src="https://komarev.com/ghpvc/?username=Kunallhundare&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Kunallhundare?label=Followers&style=flat&color=2E9EF7" alt="Followers" />
+---
 
-</div>
+## 🙋‍♂️ About Me
 
-<br/>
+I'm a **B.Sc. Computer Science student** passionate about transforming raw data into meaningful insights and building practical, real-world projects. I work at the intersection of **Data Analysis**, **SQL**, and **Business Intelligence** — and I enjoy solving problems along the way.
 
-## 👋 About Me
+- 🎓 Pursuing B.Sc. Computer Science at MAEER's MIT Arts, Commerce & Science College, Pune (2024 – Expected 2027)
+- 📊 Building hands-on projects using **Python, SQL, and Power BI**
+- 🔬 Currently deepening skills in **Data Structures & Algorithms** and **Database Management**
+- 🤝 Open to collaborations on data-driven projects
+- 💬 Ask me about **Python, SQL, DBMS, Data Analysis, or Power BI**
 
-> Aspiring **Data Analyst** with a foundation in **Python, SQL, Power BI, and Data Structures & Algorithms**. I enjoy working with data, solving problems, and transforming raw information into meaningful insights. Currently focused on building practical projects, improving my analytical skills, and preparing for opportunities in data and technology.
-
-- 🎓 B.Sc. Computer Science student at **MAEER's MIT Arts, Commerce & Science College, Pune** (2024 – 2027)
-- 🌱 Currently sharpening skills in Data Analysis, SQL, and Power BI dashboards
-- 💼 Open to **Data Analyst / Data Science / Python Developer** internships
-- ✨ *Turning data into insights, ideas into projects, and learning into growth.*
-
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,bootstrap,mysql,postgres,git,vscode&theme=dark" alt="Skill icons" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br/><br/>
+**Databases & Data Management**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS%20%2F%20RDBMS-FF6F00?style=flat-square&logo=databricks&logoColor=white)
 
-</div>
+**Tools & Platforms**
 
-<br/>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 📊 GitHub Stats
+**Domains**
 
-<div align="center">
+`Data Analysis` · `Data Visualization` · `Business Intelligence` · `Statistics` · `DBMS / RDBMS` · `Web Development`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kunallhundare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunallhundare&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunallhundare&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+## 🚀 Featured Projects
 
-</div>
+### 🌌 [SpaceCE](https://github.com/Kunallhundare/SpacECE)
+> A responsive space exploration web application presenting astronomy and space-related information through a clean, engaging interface. Built with HTML, CSS, JavaScript, and Bootstrap.
 
-<br/>
-
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 [SpacECE](https://github.com/Kunallhundare/SpacECE)
-A responsive space exploration web app presenting astronomy and space-related information through a clean, engaging interface.
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 [Data Analysis Projects](https://github.com/Kunallhundare?tab=repositories)
-Data cleaning, exploratory data analysis, SQL-based analysis, and interactive Power BI dashboards focused on extracting insights.
-
-`Python` `SQL` `Power BI` `Excel`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 📊 [Data Analysis Projects](https://github.com/Kunallhundare?tab=repositories)
+> A collection of projects covering data cleaning, exploratory data analysis, SQL-based analysis, and interactive Power BI dashboards — turning raw data into actionable insights.
 
 ### 🧮 Programming & Data Structures
-Strengthening problem-solving through practical implementations of arrays, strings, linked lists, stacks, queues, searching, and sorting.
+> Practical implementations of arrays, strings, linked lists, stacks, queues, searching, and sorting — built to strengthen core problem-solving skills in C, C++, and Python.
 
-`C` `C++` `Python`
+---
 
-</td>
-<td width="50%" valign="top">
+## 🎯 Currently Working On
 
-### 🎯 Currently Learning
-Python for Data Analysis · SQL · Power BI · DSA · Database Management · Data Visualization
+- 📈 Strengthening SQL and Power BI dashboarding skills
+- 🧠 Practicing Data Structures & Algorithms
+- 📊 Building a stronger portfolio of data analysis projects
+- 🌍 Preparing for Data Analyst / Data Science internship opportunities
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+*"Turning data into insights, ideas into projects, and learning into growth."*
 
-## 🎓 Education
-
-| Institution | Program | Duration | Result |
-|---|---|---|---|
-| MAEER's MIT Arts, Commerce & Science College, Pune | B.Sc. Computer Science | 2024 – Expected 2027 | **CGPA: 8.50 / 10** |
-
-<br/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kunallhundare)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-
-</div>
-
-<br/>
-
-<div align="center">
-<i>Open to Data Analyst, Data Science, Python Developer, and Internship opportunities.</i>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" width="100%"/>
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=Kunallhundare&style=flat-square&color=blue)](https://github.com/Kunallhundare)
