@@ -1,137 +1,84 @@
 <div align="center">
 
-# Hi, I'm Kunal Hundare 👋
+# Kunal Hundare
 
-### Aspiring Data Analyst & Software Developer
-
-*Python • SQL • Power BI • C++ • Data Structures & Algorithms*
+### Aspiring Data Analyst · Python · SQL · Power BI
 
 </div>
 
----
+<br>
 
-> Aspiring **Data Analyst and Software Developer** with a strong foundation in **Python, SQL, Power BI, C++, and Data Structures & Algorithms**. I enjoy solving problems, analyzing data, and building practical projects that turn ideas and raw information into meaningful solutions. Currently focused on strengthening my technical skills through continuous learning and real-world project development.
+> Aspiring **Data Analyst** with a foundation in **Python, SQL, Power BI, and Data Structures & Algorithms**. I enjoy working with data, solving problems, and transforming raw information into meaningful insights. Currently focused on building practical projects, improving my analytical skills, and preparing for opportunities in data and technology.
 
 ---
 
 ## 🛠️ Technical Skills
 
-| **Category**        | **Skills**                                                      |
-| ------------------- | --------------------------------------------------------------- |
-| **Languages**       | Python, C, C++, SQL, JavaScript                                 |
-| **Data Analysis**   | Pandas, NumPy, Data Cleaning, EDA, Data Visualization           |
-| **Databases**       | MySQL, PostgreSQL                                               |
-| **BI & Reporting**  | Power BI, Microsoft Excel                                       |
-| **Web Development** | HTML5, CSS3, JavaScript, Bootstrap                              |
-| **Tools**           | Git, GitHub, VS Code                                            |
-| **Coursework**      | Data Structures & Algorithms, DBMS, Object-Oriented Programming |
+| **Category**       | **Skills**                                                      |
+| :----------------- | :-------------------------------------------------------------- |
+| **Languages**      | Python, C, C++, SQL, JavaScript                                 |
+| **Data Analysis**  | Pandas, NumPy, Data Cleaning, EDA, Data Visualization           |
+| **Databases**      | MySQL, PostgreSQL                                               |
+| **BI & Reporting** | Power BI, Excel                                                 |
+| **Web**            | HTML, CSS, JavaScript, Bootstrap                                |
+| **Tools**          | Git, GitHub, VS Code                                            |
+| **Coursework**     | Data Structures & Algorithms, DBMS, Object-Oriented Programming |
 
 ---
 
 ## 🚀 Projects
 
-### 🌌 SpaceCE — Space Exploration Platform
+**SpaceCE**   ·   `HTML` `CSS` `JavaScript` `Bootstrap`   ·   [Repository ↗](https://github.com/Kunallhundare/SpacECE)
 
-`HTML5` `CSS3` `JavaScript` `Bootstrap` · [Repository ↗](https://github.com/Kunallhundare/SpacECE)
+A responsive space exploration web application designed to present astronomy and space-related information through a clean and engaging interface. Built with modern frontend technologies and responsive design principles.
 
-Developed a responsive web application focused on **space exploration and astronomy**. Built an engaging interface to present space-related information while applying modern frontend development concepts and responsive design principles.
+<br>
 
----
+**Data Analysis Projects**   ·   `Python` `SQL` `Power BI` `Excel`   ·   [Repositories ↗](https://github.com/Kunallhundare?tab=repositories)
 
-### 📊 Data Analysis & Dashboard Projects
+Working on projects involving data cleaning, exploratory data analysis, SQL-based analysis, and interactive Power BI dashboards. Focused on extracting meaningful insights from data and presenting them through clear visualizations.
 
-`Python` `SQL` `Power BI` `Excel`
+<br>
 
-Building data-driven projects involving **data cleaning, exploratory data analysis, SQL queries, visualization, and interactive dashboards**. My focus is on transforming raw data into clear insights that can support better decision-making.
+**Programming & Data Structures**   ·   `C` `C++` `Python`
 
-[Explore Repositories ↗](https://github.com/Kunallhundare?tab=repositories)
-
----
-
-### 💻 Programming & Problem Solving
-
-`C` `C++` `Python` `DSA`
-
-Continuously strengthening my programming foundation through hands-on coding and Data Structures & Algorithms practice, with focus on **arrays, strings, linked lists, stacks, queues, searching, sorting, trees, and problem-solving**.
-
-[View GitHub Profile ↗](https://github.com/Kunallhundare)
+Strengthening my problem-solving and programming skills through practical implementations of arrays, strings, linked lists, stacks, queues, searching, sorting, and other Data Structures & Algorithms concepts.
 
 ---
 
 ## 🎓 Education
 
 | **Institution**                                    | **Program**            | **Duration**         | **Result**          |
-| -------------------------------------------------- | ---------------------- | -------------------- | ------------------- |
+| :------------------------------------------------- | :--------------------- | :------------------- | :------------------ |
 | MAEER's MIT Arts, Commerce & Science College, Pune | B.Sc. Computer Science | 2024 – Expected 2027 | **CGPA: 8.50 / 10** |
 
 ---
 
 ## 🌱 Currently Learning
 
-* **Python** for Data Analysis
-* **SQL** and Database Management
-* **Power BI** and Data Visualization
-* **Data Structures & Algorithms**
-* **Object-Oriented Programming**
-* Advanced **Web Development**
-* Building **Real-World Projects**
-
----
-
-## 🎯 Current Focus
-
-```text
-→ Analyze Data
-→ Solve Problems
-→ Build Projects
-→ Learn Continuously
-→ Improve Every Day
-```
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kunallhundare&show_icons=true&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunallhundare&layout=compact&hide_border=true" height="165" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunallhundare&hide_border=true" />
-
-</div>
+**Python for Data Analysis**   ·   **SQL**   ·   **Power BI**   ·   **Data Structures & Algorithms**   ·   **Database Management**   ·   **Data Visualization**
 
 ---
 
 ## 💼 Career Interests
 
-Currently exploring opportunities in:
+**Data Analytics**   ·   **Business Intelligence**   ·   **Python Development**   ·   **Software Development**
 
-**Data Analytics** · **Python Development** · **Software Development** · **Business Intelligence** · **Web Development**
+Currently focused on building a strong portfolio of practical projects and developing the technical and analytical skills required to contribute effectively in a professional environment.
 
-I am passionate about learning, building, and collaborating on projects that create real-world impact.
+---
+
+## 📫 Connect
+
+**Open to Data Analyst, Data Science, Python Developer, and Internship opportunities.**
+
+📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+💻 **GitHub:** [github.com/Kunallhundare](https://github.com/Kunallhundare)
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
-
-📩 **Open to internships, learning opportunities, collaborations, and entry-level roles**
-
-💻 [GitHub Profile](https://github.com/Kunallhundare)
-
----
-
-**"Learn. Build. Analyze. Improve. Repeat."**
-
-⭐ *Feel free to explore my repositories and follow my journey.*
+*Turning data into insights, ideas into projects, and learning into growth.*
 
 </div>
